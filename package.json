@@ -1,0 +1,21 @@
+{
+  "name": "chillnightmode",
+  "displayName": "Chill Night Mode",
+  "description": "Chill night mode with pastel colors. I wanted a lighter darkmode with soft colors to make it easier on the eyes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chill Night Mode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xnxtzy-color-theme.json"
+      }
+    ]
+  }
+}
