@@ -2,8 +2,9 @@
 
 All notable changes to the "chillnightmode" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+##V0.0.1
+* init release
 
 ## [Unreleased]
 
-- Initial release
+- going to change to V 1.0.0 after taking a proper screen shot
